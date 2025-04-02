@@ -79,7 +79,6 @@ These issues were resolved by:
 
 ```bash
 git clone <repository-url>
-cd Test-Automation-500108301
 ```
 
 2. Create and activate a virtual environment:
@@ -167,7 +166,7 @@ locust -f performance_test.py --host=http://localhost:8000
 ## Project Structure
 
 ```
-Test-Automation-500102039/
+Test-Automation/
 ├── .github/
 │   └── workflows/
 │       └── TestAutomation.yml
