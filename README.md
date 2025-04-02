@@ -204,12 +204,7 @@ Test-Automation/
 -   Load testing with Locust
 -   Concurrent user simulation
 
-## Test Reports and Artifacts
 
-### Test Report
-
-![Test Report 1](docs/test-report1.png)
-![Test Report 2](docs/test-report2.png)
 
 
 ### GitHub Actions Artifacts
