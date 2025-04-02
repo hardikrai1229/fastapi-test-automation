@@ -209,8 +209,6 @@ Test-Automation/
 
 ### GitHub Actions Artifacts
 
-![GitHub Actions Artifacts](docs/artifacts.png)
-
 The GitHub Actions workflow generates and stores:
 
 -   Test execution reports
